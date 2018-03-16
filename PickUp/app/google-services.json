@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "883467132623",
+    "firebase_url": "https://pick-up-b0ba7.firebaseio.com",
+    "project_id": "pick-up-b0ba7",
+    "storage_bucket": "pick-up-b0ba7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883467132623:android:c1b0a0299716e96a",
+        "android_client_info": {
+          "package_name": "com.example.rustybucket.pickup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883467132623-mfo1pheoeoi0rur68gaomf79gukl7ppr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rustybucket.pickup",
+            "certificate_hash": "de39ec171bcaa6496a19f83c02587a6d4d3a2bd4"
+          }
+        },
+        {
+          "client_id": "883467132623-0i78ubp14r2b7r4kse0o4li21p2a5ms0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn5egt9DdBqDi9UKYTctpgoFkRsZNiL4I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883467132623-0i78ubp14r2b7r4kse0o4li21p2a5ms0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
