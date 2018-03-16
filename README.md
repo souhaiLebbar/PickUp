@@ -48,6 +48,9 @@ Under the [testing folder](https://uocis.assembla.com/spaces/cis422w18-team3/git
 ## Contact Information
 - Brandon Sov - Team Manager/API Integrator - bhs@uoregon.edu
 - Shohei Etzel - Requirements Analyst - sse@uoregon.edu
-- Erik Chen - Software Architect - achen@uoregon.edu
+- Adam Chen - Software Architect/Quality Assurance - achen@uoregon.edu
 - Erik Lopez - Configurations/Backend Developer - elopezr2@uoregon.edu
 - Jeffrey Knees - Full Stack Developer - jknees@uoregon.edu
+
+## Note
+- Please see more details from this link: https://uocis.assembla.com/spaces/cis422w18-team3/wiki, including system architecture, Quality Assurance plan
